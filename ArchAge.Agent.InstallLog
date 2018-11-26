@@ -1,55 +1,57 @@
-﻿Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+﻿Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
 Installing service ArchAge Agent...
 Creating EventLog source ArchAge Agent in log Application...
-Rolling back assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+Rolling back assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
 Restoring event log to previous state for source ArchAge Agent.
-Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+Uninstalling assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
+Removing EventLog source ArchAge Agent.
+Warning: The source ArchAge Agent is not registered on the local machine.
+Service ArchAge Agent is being removed from the system...
+Service ArchAge Agent was successfully removed from the system.
+Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
 Installing service ArchAge Agent...
 Service ArchAge Agent has been successfully installed.
 Creating EventLog source ArchAge Agent in log Application...
-Committing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+Committing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
-Uninstalling assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
+Uninstalling assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
 Removing EventLog source ArchAge Agent.
 Service ArchAge Agent is being removed from the system...
 Service ArchAge Agent was successfully removed from the system.
-Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+Attempt to stop service ArchAge Agent.
+Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
 Installing service ArchAge Agent...
 Service ArchAge Agent has been successfully installed.
 Creating EventLog source ArchAge Agent in log Application...
-Committing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
+Committing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe'.
 Affected parameters are:
    logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
-Uninstalling assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe'.
-Affected parameters are:
-   logtoconsole = 
-   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.exe
-   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Debug\ArchAge.Agent.InstallLog
-Removing EventLog source ArchAge Agent.
-Service ArchAge Agent is being removed from the system...
-Service ArchAge Agent was successfully removed from the system.
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\ArchAge.Agent.InstallLog
