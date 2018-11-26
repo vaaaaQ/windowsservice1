@@ -52,14 +52,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchAge.Agent.exe" size="14824">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchAge.Agent.exe" size="15848">
       <assemblyIdentity name="ArchAge.Agent" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JXZSK9wUzVUUXowgvZrGvVrrNjIwUuz30OjcH0RvbrU=</dsig:DigestValue>
+        <dsig:DigestValue>cN5kHzh2Cfht852ANchihLy4heqUcXGL0aYNMxN/bww=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -327,13 +327,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ArchAge.Agent.exe.config" size="5482">
+  <file name="ArchAge.Agent.exe.config" size="5599">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>cKhMGto51YJEd8V+o4iJpc+kQ/cY3PLKgf0RMZP49t4=</dsig:DigestValue>
+      <dsig:DigestValue>V7RZB5Df9iyLHeE1CqShnqJKQupJbZgANZBWKyG4FLQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Volumeid64.exe" size="169648">
