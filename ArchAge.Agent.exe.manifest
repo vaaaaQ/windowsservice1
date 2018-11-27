@@ -59,7 +59,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Bbph3R1b4OdEDaiszPRdruclVxs6gnZTYkrzgVEQLaI=</dsig:DigestValue>
+        <dsig:DigestValue>vC2FVcQaTejsWcmjeEJzcawV1kx1OmNnjYZ+/3Y0zTs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -327,13 +327,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ArchAge.Agent.exe.config" size="5601">
+  <file name="ArchAge.Agent.exe.config" size="5599">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H9oLiMuPhy0VdaifKuBxgvBxuULRU3TOU4IuTlG9QyI=</dsig:DigestValue>
+      <dsig:DigestValue>V7RZB5Df9iyLHeE1CqShnqJKQupJbZgANZBWKyG4FLQ=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Volumeid64.exe" size="169648">
