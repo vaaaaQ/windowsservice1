@@ -52,14 +52,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchAge.Agent.exe" size="17896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchAge.Agent.exe" size="18920">
       <assemblyIdentity name="ArchAge.Agent" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>twbbeyCeiUQdvca18w83EfwM3rAdBZSVmxp1qe9aJMQ=</dsig:DigestValue>
+        <dsig:DigestValue>Loc1JgYTQ9yUlT9cinr7HhbHH2nL+9Zaw7BZINhFZGE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -156,6 +156,30 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>HCRfTIXCraEwvFmULJC3AcJMBu2+PrJYOO2N5PhSU1w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serilog.dll" size="111104">
+      <assemblyIdentity name="Serilog" version="2.0.0.0" publicKeyToken="24C2F752A8E58A10" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>lm2DlIlZBB1MRiOeSVKwPAKRfS78t2a7q5YfXa9sh08=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serilog.Sinks.File.dll" size="26112">
+      <assemblyIdentity name="Serilog.Sinks.File" version="2.0.0.0" publicKeyToken="24C2F752A8E58A10" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ha2FMK3B3sO5fyB0xyC4FSi6XqbHJ04amKkGMEvM0S8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -327,13 +351,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ArchAge.Agent.exe.config" size="5599">
+  <file name="ArchAge.Agent.exe.config" size="5601">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>V7RZB5Df9iyLHeE1CqShnqJKQupJbZgANZBWKyG4FLQ=</dsig:DigestValue>
+      <dsig:DigestValue>H9oLiMuPhy0VdaifKuBxgvBxuULRU3TOU4IuTlG9QyI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Volumeid64.exe" size="169648">

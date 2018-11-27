@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ArchAge.Agent.exe.manifest" size="20095">
+    <dependentAssembly dependencyType="install" codebase="ArchAge.Agent.exe.manifest" size="21450">
       <assemblyIdentity name="ArchAge.Agent.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QBFkziJVpaDnfhI3q+17Kggp4UNjL1Cl7/7wxh0ID+A=</dsig:DigestValue>
+        <dsig:DigestValue>zVI/chwLdPOZqt6BxZV7iilwMokbDkPW2TF2sdBIel8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
