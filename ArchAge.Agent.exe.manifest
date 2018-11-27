@@ -52,14 +52,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchAge.Agent.exe" size="17384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ArchAge.Agent.exe" size="17896">
       <assemblyIdentity name="ArchAge.Agent" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>e8D58IoV+KYDX859LgVRcoo5JSdpLhn/1M1cADmH6Xc=</dsig:DigestValue>
+        <dsig:DigestValue>twbbeyCeiUQdvca18w83EfwM3rAdBZSVmxp1qe9aJMQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
