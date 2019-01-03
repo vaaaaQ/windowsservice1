@@ -1,0 +1,42 @@
+﻿Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.InstallLog
+Installing service ArchAge Agent...
+Service ArchAge Agent has been successfully installed.
+Creating EventLog source ArchAge Agent in log Application...
+Committing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.InstallLog
+Uninstalling assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.InstallLog
+Removing EventLog source ArchAge Agent.
+Service ArchAge Agent is being removed from the system...
+Service ArchAge Agent was successfully removed from the system.
+Installing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.InstallLog
+Installing service Windows Theme Beautifier...
+Service Windows Theme Beautifier has been successfully installed.
+Creating EventLog source Windows Theme Beautifier in log Application...
+Committing assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.InstallLog
+Uninstalling assembly 'C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.exe
+   logfile = C:\Users\Valery\source\repos\WindowsService1\WindowsService1\bin\Release\WindowsBeautify.InstallLog
+Removing EventLog source Windows Theme Beautifier.
+Service Windows Theme Beautifier is being removed from the system...
+Service Windows Theme Beautifier was successfully removed from the system.
