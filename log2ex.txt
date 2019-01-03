@@ -5,3 +5,24 @@ Sysinternals - www.sysinternals.com
 
 Volume ID for drive c: updated to caa1-4d17
 
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Volume ID for drive c: updated to f2a1-4dd7
+
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Volume ID for drive c: updated to f2a1-4dd7
+
+
+VolumeId v2.1 - Set disk volume id
+Copyright (C) 1997-2016 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+Volume ID for drive c: updated to f2a1-4dd7
+
